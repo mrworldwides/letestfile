@@ -118,7 +118,7 @@ This will show nothing but wait
 
  This will show nothing but your talisman server is online  and go play 
  
- to change game_server.evp ask to your editor or pm [Akash Harkhani] (https://fb.me/akashharkhani1992)
+ to change game_server.evp ask to your editor or pm [Akash Harkhani](https://fb.me/akashharkhani1992)
  
  if you like my help then donate as you like on paypal [Donate Me And Support me](https://paypal.me/AkashHarkhani)
   For More Details Pm Me At [Akash Harkhani](https://fb.me/akashharkhani1992)  
